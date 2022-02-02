@@ -20,13 +20,13 @@ public class DummyData
     {
         List<Classe> classeList = new ArrayList<>();
         Classe c1 = new Classe();
-        c1.setNome("Feiticeiro");
+        c1.setNome("Bardo");
         Classe c2 = new Classe();
-        c2.setNome("Mago");
+        c2.setNome("Bruxo");
         Classe c3 = new Classe();
-        c3.setNome("Paladino");
+        c3.setNome("Clérigo");
         Classe c4 = new Classe();
-        c4.setNome("Patrulheiro");
+        c4.setNome("Druida");
 
         classeList.add(c1);
         classeList.add(c2);
